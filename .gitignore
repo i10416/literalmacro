@@ -1,0 +1,9 @@
+project/project
+project/target
+.bloop
+**/.bloop
+.bsp
+.metals
+.vscode
+target
+src/main/scala/Debug.scala
